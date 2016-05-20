@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SSOTest</string>
+    <string name="ACCOUNT_TYPE">com.wzm</string>
+</resources>
